@@ -1,5 +1,3 @@
-// import React, { Component }  from 'react';
-// import { useState } from 'react';
 import "./MenuNavBar.scss"
 export const MenuNavBar = () => {
     return (
