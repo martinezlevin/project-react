@@ -1,12 +1,11 @@
-.UlMenuNavBar{ display: flex; flex-direction: row;
-    .LiMenuNavBar{list-style: none; 
-        .AMenuNavBar{ color: black; text-decoration: none; margin: 0 7px; 
-        &:active {font-weight: 700;}
-        &:hover {text-decoration: underline ;}
+.MenuNavBar{ display: flex; flex-direction: row;
+    .ListaNavBar{list-style: none; 
+        .LinkNavBar{ color: black; text-decoration: none; font-weight: 600; font-family: arial; 
+        &:active {font-weight: 800;}
+        &:hover {text-decoration: overline;}
     }
     }
 }
-
 
 .logoNike {
     width: 70px;
