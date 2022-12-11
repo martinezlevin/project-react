@@ -1,6 +1,6 @@
 import "./CartWidget.scss";
 
-export const CardWidget = () => {
+export const CartWidget = () => {
     return (
         <div>
             <div className="container-fluid d-flex justify-content-end ContainerCardWidget">
